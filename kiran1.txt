@@ -1,2 +1,4 @@
 this is an second text file.
+this is an file where we used to add text
+
 in this we are adding a file
