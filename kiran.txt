@@ -1,3 +1,4 @@
 this is an existing file.
 this is an example of text file.
 there is a line where we get conflict
+
